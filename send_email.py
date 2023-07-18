@@ -6,8 +6,8 @@ from email import encoders
 
 def s(email, attachment_path):
     # Email details
-    sender_email = "sarvagyjain2807@gmail.com"
-    sender_password = "mummypapa@24"
+    sender_email = ""
+    sender_password = ""
     receiver_email = email
     subject = "Email with Attachment"
 
